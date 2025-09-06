@@ -427,6 +427,7 @@ ASSISTANT_STYLE = (
 )
 
 
+# llm to generate final reply
 def llm_reply(user_text:str, intent:str, tool_result: Any) -> str:
     # Create a formatted product list with exact prices and occasions
     product_details = []
