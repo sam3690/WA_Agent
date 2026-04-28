@@ -27,7 +27,7 @@ An intelligent conversational sales agent deployed over WhatsApp — built for e
 |---|---|
 | AI / LLM | LangChain · OpenAI API |
 | Messaging | WhatsApp Business API (Meta Cloud API) |
-| Backend | Node.js / Python |
+| Backend | FAST API / Python |
 | Deployment | Docker |
 
 ---
